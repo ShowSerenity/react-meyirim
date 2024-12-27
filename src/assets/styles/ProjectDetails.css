@@ -1,0 +1,45 @@
+.project-page {
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .project-padding {
+    padding: 60px;
+  }
+
+  .project-title {
+    font-weight: bold;
+    font-size: 70px;
+  }
+  
+  .project-subtitle {
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .project-text {
+    font-size: 22px;
+    line-height: 1.5;
+    max-width: 50%;
+    margin: 20px 0;
+  }
+  
+  .project-date-label {
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+  .collabs {
+    font-size: 26px;
+    max-width: 50%;
+    line-height: 1.5;
+    word-wrap: break-word;
+  }
+  
+  .project-image {
+    width: 97%;
+    height: 750px;
+    margin: 20px auto;
+    display: block;
+  }
+  
