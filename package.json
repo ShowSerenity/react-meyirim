@@ -2,6 +2,7 @@
   "name": "react-meyirim",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ShowSerenity.github.io/react-meyirim",
   "dependencies": {
     "@supabase/supabase-js": "^2.46.2",
     "@testing-library/jest-dom": "^5.17.0",
