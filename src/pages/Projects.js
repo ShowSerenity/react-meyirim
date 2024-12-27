@@ -7,8 +7,7 @@ const projects = [
     title: 'Project A',
     description: 'Helping disabled children with education.',
     images: [
-      '/assets/images/project-a-1.jpg',
-      '/assets/images/project-a-2.jpg',
+      '../assets/images/defacto.png',
     ],
   },
   {
@@ -16,8 +15,7 @@ const projects = [
     title: 'Project B',
     description: 'Providing accessibility tools to adults.',
     images: [
-      '/assets/images/project-b-1.jpg',
-      '/assets/images/project-b-2.jpg',
+      '../assets/images/defacto.png',
     ],
   },
   {
@@ -25,8 +23,7 @@ const projects = [
     title: 'Project C',
     description: 'Community support initiatives.',
     images: [
-      '/assets/images/project-c-1.jpg',
-      '/assets/images/project-c-2.jpg',
+      '../assets/images/defacto.png',
     ],
   },
 ];

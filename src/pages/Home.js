@@ -13,7 +13,7 @@ const Home = () => {
     useEffect(() => {
         const fetchNews = async () => {
         const { data, error } = await supabase
-            .from('news') // Укажите название вашей таблицы
+            .from('news')
             .select('title, content, images, videos, tags, created_at')
             .order('created_at', { ascending: false }) // Сортировка по дате
             .limit(5); // Ограничение на 5 последних новостей

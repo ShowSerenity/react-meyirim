@@ -50,8 +50,7 @@ const DefactoFM = () => {
       },
     ],
     images: [
-      "/assets/images/guitarhero.jpg",
-      "/assets/images/fguitaristview.jpg",
+      "../../assets/images/defacto.png",
     ],
   };
 

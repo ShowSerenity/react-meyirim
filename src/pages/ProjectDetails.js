@@ -7,8 +7,7 @@ const projectData = [
     title: 'Project A',
     description: 'Detailed information about Project A.',
     images: [
-      '/assets/images/project-a-1.jpg',
-      '/assets/images/project-a-2.jpg',
+      '../assets/images/defacto.png',
     ],
   },
   {
@@ -16,8 +15,7 @@ const projectData = [
     title: 'Project B',
     description: 'Detailed information about Project B.',
     images: [
-      '/assets/images/project-b-1.jpg',
-      '/assets/images/project-b-2.jpg',
+      '../assets/images/defacto.png',
     ],
   },
   {
@@ -25,8 +23,7 @@ const projectData = [
     title: 'Project C',
     description: 'Detailed information about Project C.',
     images: [
-      '/assets/images/project-c-1.jpg',
-      '/assets/images/project-c-2.jpg',
+      '../assets/images/defacto.png',
     ],
   },
 ];
